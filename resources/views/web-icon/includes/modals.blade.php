@@ -233,7 +233,7 @@
                         <li><i class="material-icons">check</i>{{$item}}</li>
                     @endif
                 @endforeach
-                <li><i class="material-icons">check</i><a href="">{{trans('main.service_list_more')}}</a></li>
+                <li><i class="material-icons">check</i><a href="{{route('service',['alias'=>$service->alias])}}">{{trans('main.service_list_more')}}</a></li>
             </ul>
         </div>
     </div>

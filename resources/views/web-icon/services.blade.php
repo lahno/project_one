@@ -1,4 +1,4 @@
-<div class="blur_bg"><div class="brightness"></div></div>
+modal_service<div class="blur_bg"><div class="brightness"></div></div>
 <div class="content_page">
     <!-- MENU -->
 @include(env('THEME').'.menu')

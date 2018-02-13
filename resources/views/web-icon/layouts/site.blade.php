@@ -12,7 +12,7 @@
 
         gtag('config', 'UA-13270840-2');
     </script>
-    
+
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{{ (LaravelLocalization::getCurrentLocale() == 'ru') ? $title : $title_en }}</title>
