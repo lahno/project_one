@@ -35,7 +35,7 @@ class PortfolioController extends SiteController
         $this->vars = array_add($this->vars, 'content', $content);
 
         $this->title = 'Web-icon.com.ua - сайт для Вашего бизнеса';
-        $this->title_en = 'Web-icon.com.ua - site for your business';
+        $this->title_en = env('TITLE_SITE_EN');
         $this->description = 'Разработка сайтов любой сложности, уникальный дизайн, seo-продвижение.';
         $this->description_en = 'Разработка сайтов любой сложности, уникальный дизайн, seo-продвижение.';
         return $this->renderOutput();

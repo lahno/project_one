@@ -66,7 +66,7 @@ class BlogController extends SiteController
 
         $this->vars = array_add($this->vars, 'content', $content);
 
-        $this->title = 'Блог'.' | '.env('TITLE_SITE');
+        $this->title = 'Блог'.' | Web-icon.com.ua - сайт для Вашего бизнеса';
         $this->title_en = 'Blog'.' | '.env('TITLE_SITE_EN');
         $this->description = 'Разработка сайтов любой сложности, уникальный дизайн, seo-продвижение.';
         $this->description_en = 'Development of sites of any complexity, unique design, seo-promotion.';
@@ -105,7 +105,7 @@ class BlogController extends SiteController
 
             $this->vars = array_add($this->vars, 'content', $content);
 
-            $this->title = ((!empty($article->seo_title))?$article->seo_title.' | ':'').env('TITLE_SITE');
+            $this->title = ((!empty($article->seo_title))?$article->seo_title.' | ':'').'Web-icon.com.ua - сайт для Вашего бизнеса';
             $this->title_en = ((!empty($article->seo_title))?$article->seo_title.' | ':'').env('TITLE_SITE_EN');
             $this->description = strip_tags($article->seo_description);
             $this->description_en = strip_tags($article->seo_description);
@@ -148,7 +148,7 @@ class BlogController extends SiteController
 
         $this->vars = array_add($this->vars, 'content', $content);
 
-        $this->title = 'Блог'.' | '.env('TITLE_SITE');
+        $this->title = 'Блог'.' | Web-icon.com.ua - сайт для Вашего бизнеса';
         $this->title_en = 'Blog'.' | '.env('TITLE_SITE_EN');
         $this->description = 'Разработка сайтов любой сложности, уникальный дизайн, seo-продвижение.';
         $this->description_en = 'Development of sites of any complexity, unique design, seo-promotion.';
