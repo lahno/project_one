@@ -89,7 +89,7 @@ class Articles extends Section
                                 $constraint->upsize();
                                 $constraint->aspectRatio();
                             }],
-                            'fit' => [500, 300, function ($constraint) {
+                            'fit' => [600, 360, function ($constraint) {
                                 $constraint->upsize();
                                 $constraint->aspectRatio();
                             }]
