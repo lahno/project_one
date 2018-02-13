@@ -18,6 +18,8 @@
     <script src="{{ asset('packages/sleepingowl/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js') }}" rel="stylesheet"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 @endif
+
+    {{--Facebook Posts--}}
     <script>
         function postFB(href) {
             FB.ui({
