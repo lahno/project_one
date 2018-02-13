@@ -26,8 +26,8 @@ class ServiceController extends SiteController
 
         $this->vars = array_add($this->vars, 'content', $services);
 
-        $this->title = 'Услуги'.' | '.env('TITLE_SITE');
-        $this->title_en = 'Services'.' | '.env('TITLE_SITE_EN');
+        $this->title = 'Услуги'.' | '.env("TITLE_SITE");
+        $this->title_en = 'Services'.' | '.env("TITLE_SITE_EN");
         $this->description = 'Разработка сайтов любой сложности, уникальный дизайн, seo-продвижение.';
         $this->description_en = 'Development of sites of any complexity, unique design, seo-promotion.';
         return $this->renderOutput();
