@@ -2896,7 +2896,7 @@ nav.nav_mmenu .logo_svg {
   overflow-x: auto;
 }
 
-.bg_blog p code, .bg_blog li code, .bg_article p code, .bg_article li code {
+.bg_blog p > code, .bg_blog li > code, .bg_article p > code, .bg_article li > code {
   background: #ddd;
   padding: .1em .25em;
   -webkit-border-radius: 3px;
