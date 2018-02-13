@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /case
+Host: webico00.ftp.ukraine.com.ua
+Sitemap: http://web-icon.com.ua/sitemap.xml
