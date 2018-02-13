@@ -18,3 +18,12 @@
     <script src="{{ asset('packages/sleepingowl/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js') }}" rel="stylesheet"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 @endif
+    <script>
+        function postFB(href) {
+            FB.ui({
+                method: 'share',
+                mobile_iframe: true,
+                href: href
+            }, function(response){});
+        }
+    </script>
