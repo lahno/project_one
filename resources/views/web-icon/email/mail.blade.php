@@ -89,7 +89,7 @@
                         <td style="padding: 20px 0px 20px 0px;" class="logo">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
-                                    <td bgcolor="#03A9F4" width="100%" align="center"><a href="http://Web-icon.com.ua" target="_blank"><img alt="Logo" src="img/email/logo.png" width="50%" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #666666; font-size: 16px;" border="0"></a>
+                                    <td bgcolor="#03A9F4" width="100%" align="center"><a href="http://Web-icon.com.ua" target="_blank"><img alt="Logo" src="{{asset('img/email/logo.png')}}" width="50%" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #666666; font-size: 16px;" border="0"></a>
                                     </td>
                                 </tr>
                             </table>

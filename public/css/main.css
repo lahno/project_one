@@ -2963,6 +2963,10 @@ nav.nav_mmenu .logo_svg {
   margin-bottom: 20px;
 }
 
+.bg_page .main .content_page_box p strong {
+  font-family: "Roboto-Bold", sans-serif;
+}
+
 .bg_page .main .content_page_box ul {
   margin-bottom: 20px;
   padding-left: 15px;
@@ -2973,6 +2977,10 @@ nav.nav_mmenu .logo_svg {
   color: #212121;
   font-size: 1.5em;
   margin-bottom: 10px;
+}
+
+.bg_page .main .content_page_box ul li strong {
+  font-family: "Roboto-Bold", sans-serif;
 }
 
 .bg_page .main .content_page_box ul.list_check li {
