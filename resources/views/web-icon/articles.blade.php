@@ -91,7 +91,7 @@
                                             </a>
                                             <ul>
                                                 <li><a href="https://vkontakte.ru/share.php?url={{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" class="btn-floating color_vk_btn" rel="nofollow"><i class="fa fa-vk"></i></a></li>
-                                                <li><a id="shareFB_{{$article->id}}" class="btn-floating color_facebook_btn" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="{{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" id="shareFB_{{$article->id}}" class="btn-floating color_facebook_btn" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
                                                 <li><a href="http://plus.google.com/share?url={{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" class="btn-floating color_google_plus_btn" onclick="window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                             <script>
@@ -99,7 +99,7 @@
                                                     FB.ui({
                                                         method: 'share',
                                                         mobile_iframe: true,
-                                                        href: "{{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}"
+                                                        href: $(this).getAttribute('href')
                                                     }, function(response){});
                                                 };
                                             </script>
@@ -158,7 +158,7 @@
                                             </a>
                                             <ul>
                                                 <li><a href="https://vkontakte.ru/share.php?url={{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" class="btn-floating color_vk_btn" rel="nofollow"><i class="fa fa-vk"></i></a></li>
-                                                <li><a id="shareFB_{{$article->id}}" class="btn-floating color_facebook_btn" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="{{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" id="shareFB_{{$article->id}}" class="btn-floating color_facebook_btn" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
                                                 <li><a href="http://plus.google.com/share?url={{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}" class="btn-floating color_google_plus_btn" onclick="window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                             <script>
@@ -166,7 +166,7 @@
                                                     FB.ui({
                                                         method: 'share',
                                                         mobile_iframe: true,
-                                                        href: "{{route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias])}}"
+                                                        href: $(this).getAttribute('href')
                                                     }, function(response){});
                                                 };
                                             </script>
