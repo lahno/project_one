@@ -129,9 +129,9 @@
                                                 <td align="left" style="padding: 20px 0 0 0; font-size: 18px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; color: #ffffff;" class="padding-copy">Email: {{$email}}</td>
                                             </tr>
                                         @endif
-                                        @if(isset($tell))
+                                        @if(isset($phone))
                                         <tr>
-                                            <td align="left" style="padding: 20px 0 0 0; font-size: 18px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; color: #ffffff;" class="padding-copy">Номер телефона: {{$tell}}</td>
+                                            <td align="left" style="padding: 20px 0 0 0; font-size: 18px; line-height: 30px; font-family: Helvetica, Arial, sans-serif; color: #ffffff;" class="padding-copy">Номер телефона: {{$phone}}</td>
                                         </tr>
                                         @endif
                                         @if(isset($service))

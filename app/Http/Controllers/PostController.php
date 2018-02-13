@@ -130,7 +130,7 @@ class PostController extends Controller
         ], function($message) use ($request)
         {
             $message->from(env('SITE_EMAIL'), 'Web-icon.com.ua');
-            $message->to(env('ADMIN_EMAIL'))->subject('order');
+            $message->to(env('ADMIN_EMAIL'))->subject('contact_order');
         });
 
         Mail::send(env('THEME').'.email.mail', [
@@ -209,7 +209,7 @@ class PostController extends Controller
         ], function($message) use ($request)
         {
             $message->from(env('SITE_EMAIL'), 'Web-icon.com.ua');
-            $message->to(env('ADMIN_EMAIL'))->subject('order');
+            $message->to(env('ADMIN_EMAIL'))->subject('service_order');
         });
 
         Mail::send(env('THEME').'.email.mail', [
