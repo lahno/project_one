@@ -35,15 +35,18 @@
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('img/favicon/apple-touch-icon-114x114.png') }}">
     <link href="{{ asset('css/libs.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     @if(Route::currentRouteName() == 'article')
         <link href="{{ asset('packages/sleepingowl/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css') }}" rel="stylesheet">
     @endif
 </head>
 <body class="bg_{{(Route::currentRouteName() == 'about') ? 'page' : Route::currentRouteName()}}">
 <div class="over">
+
     <!-- CONTENT -->
     @yield('content')
     <!-- CONTENT -->
+
     <div class="fixed-action-btn btn-floating-regular">
         <a href="#modal_send" class="btn-floating btn-large waves-effect waves-light modal-trigger"><i class="material-icons">send</i></a>
     </div>
@@ -52,8 +55,10 @@
         <p class="text-center">2018 © Web-icon.com.ua {{trans('main.copy_past')}}</p>
     </footer>
 </div>
+
     <!-- SCRIPTS -->
     @yield('scripts')
     <!-- SCRIPTS -->
+
 </body>
 </html>

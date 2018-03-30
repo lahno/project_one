@@ -101,7 +101,7 @@ class Articles extends Section
                 ], 3)
                 ->addColumn([
                     AdminFormElement::datetime('created_at', 'Date create'),
-                    AdminFormElement::number('views', 'Views')
+                    AdminFormElement::number('views', 'Views')->setDefaultValue(0)
                 ], 3)
                 ->addColumn([
                     AdminFormElement::textarea('short_desc', 'Краткое писание')

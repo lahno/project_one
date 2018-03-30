@@ -136,6 +136,7 @@ return [
         'ckeditor'  => [
             'height'        => 400,
             'extraPlugins'  => 'uploadimage,image2,codesnippet',
+            'codeSnippetGeshi_url'  => '/packages/sleepingowl/lib/colorize.php',
 
             /*
              * WARNING!!!! CKEDITOR on D & D and UploadImageDialog

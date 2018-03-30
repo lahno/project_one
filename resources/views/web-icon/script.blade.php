@@ -18,7 +18,7 @@
     <script src="{{ asset('packages/sleepingowl/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js') }}" rel="stylesheet"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 @endif
-
+@if(Route::currentRouteName() == 'blog' || Route::currentRouteName() == 'cat_blog' || Route::currentRouteName() == 'tag_blog')
     {{--Facebook Posts--}}
     <script>
         function postFB(href) {
@@ -29,3 +29,5 @@
             }, function(response){});
         }
     </script>
+@endif
+
