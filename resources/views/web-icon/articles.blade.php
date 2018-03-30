@@ -84,7 +84,9 @@
                                             $key = array_search(route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias]), array_column($commArray, 'link'));
                                             $countComments = $commArray[$key]['posts'];
                                         @endphp
+                                        @if($countComments > 0)
                                         <span class="reviews"><i class="material-icons">insert_comment</i> {{$countComments}}</span>
+                                        @endif
                                         <div class="fixed-action-btn right">
                                             <a class="btn-floating btn color_primery">
                                                 <i class="large material-icons">share</i>
@@ -142,7 +144,9 @@
                                             $key = array_search(route('article',['alias'=>$article->alias, 'category'=>$article->cat->alias]), array_column($commArray, 'link'));
                                             $countComments = $commArray[$key]['posts'];
                                         @endphp
-                                        <span class="reviews"><i class="material-icons">insert_comment</i> {{$countComments}}</span>
+                                        @if($countComments > 0)
+                                            <span class="reviews"><i class="material-icons">insert_comment</i> {{$countComments}}</span>
+                                        @endif
                                         <div class="fixed-action-btn right">
                                             <a class="btn-floating btn color_primery">
                                                 <i class="large material-icons">share</i>
