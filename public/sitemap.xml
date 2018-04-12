@@ -1,210 +1,370 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>http://web-icon.loc/</loc>
+        <loc>http://web-icon.com.ua/</loc>
     
     
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:25+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/blog/design</loc>
+        <loc>http://web-icon.com.ua/blog</loc>
     
     
-        <lastmod>2018-02-03T14:07:27+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog/design/article_1</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:27+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:45+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/blog/marketing</loc>
+        <loc>http://web-icon.com.ua/blog/design</loc>
     
     
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog/marketing/article_4</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/blog/programming</loc>
+        <loc>http://web-icon.com.ua/blog/design/osnovnyye_printsipy_adaptivnogo_dizayna</loc>
     
     
-        <lastmod>2018-02-03T14:07:27+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog/programming/article_2</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:27+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/blog/programming/article_3</loc>
+        <loc>http://web-icon.com.ua/blog/design/tsveta_sotsialnykh_setey_Hex_RGB</loc>
     
     
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog_tag/design</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:27+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/blog_tag/programming</loc>
+        <loc>http://web-icon.com.ua/blog/marketing</loc>
     
     
-        <lastmod>2018-02-03T14:07:28+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/blog_tag/web</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:28+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/contact</loc>
+        <loc>http://web-icon.com.ua/blog/marketing/ps_insights_points</loc>
     
     
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/pages/about</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/portfolios</loc>
+        <loc>http://web-icon.com.ua/blog/marketing/simanticheskaya_mikrorazmetka_Schema.org</loc>
     
     
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/reviews</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/services</loc>
+        <loc>http://web-icon.com.ua/blog/programming</loc>
     
     
-        <lastmod>2018-02-03T14:07:24+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/services/design</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/services/marketing</loc>
+        <loc>http://web-icon.com.ua/blog/programming/dobavlyayem_na_sayt_layki_Vkontakte_Facebook_Google_i_knopku_Tvitnut</loc>
     
     
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
-    
-        <changefreq>daily</changefreq>
-    
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>http://web-icon.loc/services/site_development</loc>
-    
-    
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://web-icon.loc/services/support</loc>
+        <loc>http://web-icon.com.ua/blog/programming/kak_integrirovat_platezhnyy_shlyuz_PayPal_Laravel</loc>
     
     
-        <lastmod>2018-02-03T14:07:26+02:00</lastmod>
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog/programming/kak_perenesti_wordPress_na_novyy_domen</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog/programming/sborshchiki_proyektov_Gulp_i_Grunt</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:45+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog/programming/sozdaniye_zaprosov_k_baze_dannykh_MySQL</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:46+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:51+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/CMS</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:52+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/JavaScript</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/Laravel</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/MySQL</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/SQL</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/Seo-%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:51+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/WordPress</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:51+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/css</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/html</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/less</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/php</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:50+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/phpMyAdmin</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:51+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/blog_tag/web-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:51+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/contact</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/pages/about</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/portfolios</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:45+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/reviews</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/services</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/services/design</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/services/marketing</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:45+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/services/site_development</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:44+02:00</lastmod>
+    
+        <changefreq>daily</changefreq>
+    
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://web-icon.com.ua/services/support</loc>
+    
+    
+        <lastmod>2018-02-19T02:19:45+02:00</lastmod>
     
         <changefreq>daily</changefreq>
     
