@@ -88,7 +88,7 @@ class PostController extends Controller
             'name' => 'required|string|max:55|min:3',
             'email' => 'required|email',
             'phone' => 'required|max:20',
-            'text' => 'string|nullable',
+            'text' => 'string|nullable|alpha_dash',
             'service' => 'required|in:'.implode(",", $services_name).','.env('ID_TOPIC_OTHER')
         ], $messages);
 
@@ -167,7 +167,7 @@ class PostController extends Controller
             'name' => 'required|string|max:55|min:3',
             'email' => 'required|email',
             'phone' => 'required|max:20',
-            'text' => 'string|nullable',
+            'text' => 'string|nullable|alpha_dash',
             'service' => 'required|in:'.implode(",", $services_name).','.env('ID_TOPIC_OTHER')
         ], $messages);
 
