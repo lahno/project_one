@@ -1,10 +1,8 @@
 @include(env('THEME').'.includes.modals')
 
-@if(Route::currentRouteName() == 'home')
-    <div class="js_loader">
-        <div class="js_loader_inner"></div>
-    </div>
-@endif
+<div class="js_loader">
+    <div class="js_loader_inner"></div>
+</div>
 
 <!--[if lt IE 9]>
 <script src="{{ asset('js/html5shiv/es5-shim.min.js') }}"></script>
@@ -30,4 +28,3 @@
         }
     </script>
 @endif
-    {{--testtt test--}}
